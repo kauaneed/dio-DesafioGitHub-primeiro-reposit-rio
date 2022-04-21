@@ -1,0 +1,14 @@
+4 pilares principais
+DECOMPOSIÇÃO ( Divide o problema em pedaços menores ;1º fase da estratégia é a análise a qual é responsável por estudar,analaisar e decompor os elementos constituintes;2ºsintese é a fase de reconstrução dos constituintes ( podem ser de forma SEQUENCIAL ou PARALELA))
+
+RECONHECIMENTO (Nesta fase se faz a classificação por características utilizando métodos e aplicações para comparação das mesmas)
+
+ABSTRAÇÃO ( Observa e analisa de forma isolada cada elemento)
+
+ALGORITIMOS (Conjunto de intsruções para a máquina de executar)
+
+
+Tipos de Raciocínio Logíco 
+INDUÇÃO ( determina a regra a partir de diverisos exemplos de como a conclusão segue a premissa) 
+DEDUÇÃO (determina a conclusão usando a regra)
+ABDUÇÃO  (usa-se a conclusão e a regra para defender que a premissa poderia explicar a conclusão)
